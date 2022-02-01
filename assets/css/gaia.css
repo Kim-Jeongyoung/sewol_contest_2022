@@ -583,6 +583,14 @@ a,
   padding: 10px;
 }
 
+/* #registration {
+  border-color: yellow;
+  color: yellow;
+  /* background-image: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  border-color: #008b9c;
+  color: #008b9c; */
+} */
+
 .btn-danger,
 .navbar .navbar-nav > li > a.btn-danger {
   border-color: #d47a7e;
