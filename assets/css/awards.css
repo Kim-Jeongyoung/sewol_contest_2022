@@ -5,10 +5,16 @@
     /* object-fit: cover; */
 }
 
+.resizegrand {
+  width: 600px;
+  height: 450px;
+  /* object-fit: cover; */
+}
+
 .text-align-award {
   text-align: center;
 }
 
 .exhibition {
-  color
+  color:
 }
